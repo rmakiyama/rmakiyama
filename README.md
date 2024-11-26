@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on Radiotalk Inc.  
-🌱 I’m currently learning mobile app.
+🔭 I’m currently working on Kyash Inc
+🌱 I’m currently Mobile engineer && Engineering Manager.
